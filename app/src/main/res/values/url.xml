@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_url">http://f.apiplus.cn/ssq-1.json</string>
+</resources>
